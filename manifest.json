@@ -12,5 +12,8 @@
     "default_icon": "images/image_16.png",
     "default_title": "Sample",
     "default_popup": "popup.html"
-  }
+  },
+     "permissions": [
+        "tabs"
+    ]
 }

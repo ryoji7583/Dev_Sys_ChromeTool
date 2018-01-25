@@ -1,0 +1,16 @@
+{
+  "name": "Sample",
+  "version": "1",
+  "manifest_version": 2,
+  "description": "This is sample",
+  "icons": {
+    "16" : "images/image_16.png",
+    "48" : "images/image_48.png",
+    "128" : "images/image_128.png"
+  },
+   "browser_action": {
+    "default_icon": "images/image_16.png",
+    "default_title": "Sample",
+    "default_popup": "popup.html"
+  }
+}
